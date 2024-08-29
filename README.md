@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnaSDet](https://github.com/AnaSDet)
 
-- 📝 I regularly write articles on [https://www.annasdet.com/](https://www.annasdet.com/)
+- 📝 Working on my website [https://www.annasdet.com/](https://www.annasdet.com/)
 
 - 📫 How to reach me **annasdet2020@gmail.com**
 
