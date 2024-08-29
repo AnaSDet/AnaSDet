@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Anastasiia!👋[<img src="https://raw.githubusercontent.com/AnaSDet/AnaSDet/master/intro.gif" alt="👋 Hi there! I'm Anna SDET" title="👋 Hi there! I'm Anna SDET"/>](https://github.com/AnaSDet)
 
-[<img src="https://raw.githubusercontent.com/AnaSDet/AnaSDet/master/intro.gif" alt="👋 Hi there! I'm Anna SDET" title="👋 Hi there! I'm Anna SDET"/>](https://github.com/AnaSDet)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=AnaSDet.AnaSDet&color=C71585)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=AnaSDet.AnaSDet&color=00cf00)
+Software Engineer sharing about my journey and learnings in tech<br/>
+Studied [SDET](https://www.wedevx.co/) at the bootcamp of Chicago, IL, USA<br/>
+Working on my website [annasdet](https://www.annasdet.com/)<br/>
+Currently learning JavaScript and looking for a job<br/> 
+
+<!-- Github starts from https: -->
+![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaSDet&show_icons=true&theme=radical)
+
+
