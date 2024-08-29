@@ -5,7 +5,7 @@
 Software Engineer sharing about my journey and learnings in tech<br/>
 Studied [SDET](https://www.wedevx.co/) at the bootcamp of Chicago, IL, USA<br/>
 Working on my website [annasdet](https://www.annasdet.com/)<br/>
-Currently learning JavaScript and looking for a job<br/> 
+Currently learning JavaScript and looking for a job. Contact me on [LinkedIn](https://www.linkedin.com/in/anna-sdet)<br/> 
 
 <!-- Github starts from https: -->
 ![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaSDet&show_icons=true&theme=radical)
