@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasdet&label=Profile%20views&color=0e75b6&style=flat" alt="anasdet" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnaSDet](https://github.com/AnaSDet)
 
